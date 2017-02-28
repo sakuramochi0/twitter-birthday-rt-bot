@@ -1,0 +1,470 @@
+春音あいら:
+  name_en: HARUNE Aira
+  name_ko: 하루네 아이라/아라
+  date: 1900-09-03
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [AD]
+  year: 1997
+  note: 
+天宮りずむ:
+  name_en: AMAMIYA Rizumu
+  name_ko: 아마미야 리즈무/리듬
+  date: 1900-09-03
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [AD]
+  year: 1997
+  note: 
+高峰みおん:
+  name_en: TAKAMINE Mion
+  name_ko: 타카미네 미온/메이
+  date: 1900-03-03
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [AD]
+  year: 1997
+  note: 
+城之内セレナ:
+  name_en: JOUNOUCHI Serena
+  name_ko: 죠노우치 세레나/세레나
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [AD]
+  year: 1997
+  note: 
+藤堂かのん:
+  name_en: TOUDOU Kanon
+  name_ko: 토도 캐논(캐논)
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [AD]
+  year: 1997
+  note: 
+久里須かなめ:
+  name_en: KURISU Kaname
+  name_ko: 크리스 카나메(카일리)
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [AD]
+  year: 
+  note: 
+上葉みあ:
+  name_en: AGEHA Mia
+  name_ko: 아게하 미아/아미(쿠사카베 미아)
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [DMF]
+  year: 
+  note: 
+深山れいな:
+  name_en: MIYAMA Reina
+  name_ko: 미야마 레이나/레이나(쿠보 레이나)
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [DMF]
+  year: 
+  note: 
+志々美かりん:
+  name_en: SHIJIMI Karin
+  name_ko: 시지미 카린/카린(타카하시 카린)
+  date: 1900-12-25
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [DMF]
+  year: 
+  note: 
+大瑠璃あやみ:
+  name_en: OORURI Ayami
+  name_ko: 오오루리 아야미/에이미(세마노 아야미)
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [DMF]
+  year: 
+  note: 
+ヘイン:
+  name_en: Hye In
+  name_ko: 혜인/해인 (유혜인)
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [DMF]
+  year: 
+  note: 
+シユン:
+  name_en: Shi Yoon
+  name_ko: 시윤/시은 (조시윤)
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [DMF]
+  year: 
+  note: 
+ジェウン:
+  name_en: Jae Eun
+  name_ko: 재은/지은 (전재은)
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [DMF]
+  year: 
+  note: 
+チェギョン:
+  name_en: Chae Kyoung
+  name_ko: 채경/재경 (윤채경)
+  date: 1900-02-14
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [DMF]
+  year: 
+  note: 
+ソミン:
+  name_en: So Min
+  name_ko: 소민/소미 (전소민)
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [DMF]
+  year: 
+  note: 
+彩瀬なる:
+  name_en: AYASE Naru
+  name_ko: 한나루
+  date: 1900-03-03
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL]
+  year: 
+  note: 
+福原あん:
+  name_en: FUKUHARA Ann
+  name_ko: 김아람
+  date: 1900-04-02
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL]
+  year: 
+  note: 
+涼野いと:
+  name_en: SUZUNO Ito
+  name_ko: 강이음
+  date: 1900-02-14
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL]
+  year: 
+  note: 
+蓮城寺べる:
+  name_en: Renjouji Bell
+  name_ko: 류빈
+  date: 1900-11-11
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL]
+  year: 
+  note: 
+森園わかな:
+  name_en: MORIZONO Wakana
+  name_ko: 채우리
+  date: 1900-06-05
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL]
+  year: 
+  note: 
+小鳥遊おとは:
+  name_en: TAKANASHI Otoha
+  name_ko: 송온유
+  date: 1900-09-15
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL]
+  year: 
+  note: 
+荊りんね:
+  name_en: IBARA Rinne
+  name_ko: 린네
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL]
+  year: 
+  note: 
+天羽ジュネ:
+  name_en: AMOU June
+  name_ko: 신비
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL]
+  year: 
+  note: 
+速水ヒロ:
+  name_en: HAYAMI Hiro
+  name_ko: 신도하
+  date: 1900-10-10
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL, kinpri]
+  year: 
+  note: 
+仁科カヅキ:
+  name_en: NISHINA Kazuki
+  name_ko: 윤세찬
+  date: 1900-05-05
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL, kinpri]
+  year: 
+  note: 
+神浜コウジ:
+  name_en: MIHAMA Kouji
+  name_ko: 은시우
+  date: 1900-01-14
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL, kinpri]
+  year: 
+  note: 
+氷室聖:
+  name_en: HIMURO Hijiri
+  name_ko: 백루한
+  date: 1900-11-23
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL, kinpri]
+  year: 
+  note: 
+法月仁:
+  name_en: NORIZUKI Jin
+  name_ko: 마성진
+  date: 1900-07-18
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL, kinpri]
+  year: 
+  note: 
+黒川冷:
+  name_en: KUROKAWA Rei
+  name_ko: 
+  date: 1900-08-08
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}',
+  '#DJCOO生誕祭', '#DJCOO生誕祭{year}']
+  works: [RL, kinpri]
+  year: 
+  note: 
+モモ:
+  name_en: Momo
+  name_ko: 모모
+  date: 
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL, kinpri]
+  year: 
+  note: 
+一条シン:
+  name_en: ICHIJOU Shin
+  name_ko: 
+  date: 1904-03-01
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}', '#シン・ルヰ生誕祭', '#シン・ルヰ生誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+太刀花ユキノジョウ:
+  name_en: TACHIBANA Yukinojou
+  name_ko: 
+  date: 1900-07-09
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+西園寺レオ:
+  name_en: SAIONJI Leo
+  name_ko: 
+  date: 1900-03-03
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+香賀美タイガ:
+  name_en: KOUGAMI Taiga
+  name_ko: 
+  date: 1900-05-04
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+十王院カケル:
+  name_en: JUUOUIN Kakeru
+  name_ko: 
+  date: 1900-12-22
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+鷹梁ミナト:
+  name_en: TAKAHASHI Minato
+  name_ko: 
+  date: 1900-08-21
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+涼野ユウ:
+  name_en: SUZUNO Yuu
+  name_ko: 
+  date: 1900-03-14
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+山田リョウ:
+  name_en: YAMADA Ryou
+  name_ko: 
+  date: 1900-09-24
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+如月ルヰ:
+  name_en: KISARAGI Louis
+  name_ko: 
+  date: 1904-02-29
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+大和アレクサンダー:
+  name_en: YAMATO Alexander
+  name_ko: 
+  date: 1900-06-06
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+北条コスモ:
+  name_en: HOUJOU Cosmo
+  name_ko: 
+  date: 1900-09-12
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [RL, pripara]
+  year: 
+  note: 9月12日は宇宙の日でもあります。
+真中らぁら:
+  name_en: MANAKA Laala
+  name_ko: 라라
+  date: 1900-11-20
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 11月20日はピザの日でもあります。
+南みれぃ:
+  name_en: MINAMI Mirei
+  name_ko: 미레이
+  date: 1900-10-01
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 10月1日は法の日・眼鏡の日でもあります。
+北条そふぃ:
+  name_en: HOUJOU Sophie
+  name_ko: 소피
+  date: 1900-07-30
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 7月30日は梅干しの日でもあります。
+東堂シオン:
+  name_en: TOUDOU Shion
+  name_ko: 시온
+  date: 1900-01-05
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 1月5日は囲碁の日でもあります。
+ドロシー・ウェスト:
+  name_en: Dorothy West
+  name_ko: 도로시
+  date: 1900-02-05
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}',
+  '#ドロシーレオナ生誕祭', '#ドロシーレオナ生誕祭{year}',
+  '#ドロレオ生誕祭', '#ドロレオ生誕祭{year}',
+  '#ドロシー生誕祭', '#ドロシー生誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 2月5日はふたごの日でもあります。
+レオナ・ウェスト:
+  name_en: Leona West
+  name_ko: 레오나
+  date: 1900-02-05
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}',
+  '#レオナ生誕祭', '#レオナ生誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 2月5日はふたごの日でもあります。
+黒須あろま:
+  name_en: KUROSU Aroma
+  name_ko: 아로마
+  date: 1900-06-06
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 6月6日は悪魔の日でもあります。あろまちゃんは6時ちょうどに生まれました。
+白玉みかん:
+  name_en: SHIRATAMA Mikan
+  name_ko: 미캉
+  date: 1900-10-04
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 10月4日は天使の日でもあります。
+紫京院ひびき:
+  name_en: SHIKYOUIN Hibiki
+  name_ko: 히비키
+  date: 1900-03-27
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 3月27日は世界演劇の日でもあります。
+緑風ふわり:
+  name_en: MIDORIKAZE Fuwari
+  name_ko: 후와리
+  date: 1900-08-11
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 8月11日はの山の日でもあります。
+ファルル:
+  name_en: Faruru
+  name_ko: 파루루
+  date: 1900-03-21
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 
+ガァルル:
+  name_en: Garuru
+  name_ko: 가루루
+  date: 1900-04-17
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 4月17日は怪獣の日でもあります。
+愛媛なお:
+  name_en: EHIME Nao
+  name_ko: 
+  date: 1900-11-20
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 
+真中のん:
+  name_en: MANAKA Non
+  name_ko: 논
+  date: 1900-09-06
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 9月6日は妹の日でもあります。
+月川ちり:
+  name_en: TSUKIKAWA Chiri
+  name_ko: 치리
+  date: 1900-11-15
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 11月15日は着物の日でもあります。
+太陽ペッパー:
+  name_en: TAIYOU Pepper
+  name_ko: 페퍼
+  date: 1900-02-09
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 2月9日は肉の日でもあります。
+黄木あじみ:
+  name_en: KIKI Ajimi
+  name_ko: 아지미
+  date: 1900-11-03
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 11月3日は文化の日でもあります。
+  
