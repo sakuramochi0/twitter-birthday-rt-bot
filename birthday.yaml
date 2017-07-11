@@ -467,4 +467,28 @@
   works: [pripara]
   year: 
   note: 11月3日は文化の日でもあります。
+幸多みちる:
+  name_en: KOUDA Michiru
+  name_ko: 
+  date: 1900-07-13
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 7月13日はオカルト記念日でもあります。
+虹色にの:
+  name_en: NIJIIRO Nino
+  name_ko: 
+  date: 1900-03-14
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 3月14日は円周率の日でもあります。
+夢川ゆい:
+  name_en: YUMEKAWA Yui
+  name_ko: 
+  date: 1900-03-14
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 3月14日は米の日でもあります。
   
