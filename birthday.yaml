@@ -319,6 +319,14 @@
   works: [kinpri]
   year: 
   note: 
+高田馬場ジョージ:
+  name_en: TAKADANOBABA George
+  name_ko: 타카다노바바 조지
+  date: 1900-09-15
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
 北条コスモ:
   name_en: HOUJOU Cosmo
   name_ko: 
