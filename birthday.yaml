@@ -1,3 +1,4 @@
+
 春音あいら:
   name_en: HARUNE Aira
   name_ko: 하루네 아이라/아라
@@ -499,4 +500,44 @@
   works: [pripara]
   year: 
   note: 3月14日は米の日でもあります。
+五反田ココロ:
+  name_en: GOTANDA Kokoro
+  name_ko: 
+  date: 1900-10-15
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+鶯谷モンド:
+  name_en: UGUISUDANI Mond
+  name_ko: 
+  date: 1900-07-11
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+神田ミツバ:
+  name_en: KANDA Mitsuba
+  name_ko: 
+  date: 1900-03-01
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+池袋エィス:
+  name_en: IKEBUKURO Ace
+  name_ko: 
+  date: 1900-04-01
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
+御徒町ツルギ:
+  name_en: OKACHIMACHI Tsurugi
+  name_ko: 
+  date: 1900-11-01
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [kinpri]
+  year: 
+  note: 
   
