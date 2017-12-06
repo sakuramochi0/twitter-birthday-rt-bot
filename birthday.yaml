@@ -548,4 +548,28 @@
   works: [kinpri]
   year: 
   note: 
+夢川ショウゴ:
+  name_en: YUMEKAWA Shougo
+  name_ko: 
+  date: 1900-11-23
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 3月14日はいい兄の日
+三鷹アサヒ:
+  name_en: MITAKA Asahi
+  name_ko: 
+  date: 1900-01-01
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 
+高瀬コヨイ:
+  name_en: TAKASE Koyoi
+  name_ko: 
+  date: 1900-12-24
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  works: [pripara]
+  year: 
+  note: 
   
