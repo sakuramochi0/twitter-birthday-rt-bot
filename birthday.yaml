@@ -244,7 +244,7 @@
   name_en: ICHIJOU Shin
   name_ko: 
   date: 1904-03-01
-  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}', '#シン・ルヰ生誕祭', '#シン・ルヰ生誕祭{year}']
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}', '#シン・ルヰ生誕祭', '#シン・ルヰ生誕祭{year}', '#一条シン如月ルヰ生誕祭{year}']
   works: [kinpri]
   year: 
   note: 
