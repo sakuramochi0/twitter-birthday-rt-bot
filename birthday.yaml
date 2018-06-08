@@ -581,7 +581,7 @@
   year: 
   note:
 桃山みらい:
-  name_en:
+  name_en: MOMOYAMA Mirai
   name_ko:
   date: 1900-07-12
   tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
@@ -589,7 +589,7 @@
   year:
   note: 7月12日はデコレーションケーキの日
 萌黄えも:
-  name_en:
+  name_en: MOEBI Emo
   name_ko:
   date: 1900-09-09
   tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
@@ -597,7 +597,7 @@
   year:
   note: 9月9日はポップコーンの日
 青葉りんか:
-  name_en:
+  name_en: AOBA Rinka
   name_ko:
   date: 1900-01-25
   tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
@@ -605,7 +605,7 @@
   year:
   note:
 赤城あんな:
-  name_en:
+  name_en: AKAGI Anna
   name_ko:
   date: 1900-07-06
   tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
