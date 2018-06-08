@@ -1,0 +1,6 @@
+---
+- hosts: rinne
+  tasks:
+  - git:
+      repo: https://github.com/sakuramochi0/twitter-birthday-rt-bot.git
+      dest: ~/src/twitter-birthday-rt-bot/
