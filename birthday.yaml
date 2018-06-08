@@ -579,4 +579,52 @@
   tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
   works: [pripara]
   year: 
-  note: 
+  note:
+桃山みらい:
+  name_en:
+  name_ko:
+  date: 1900-07-12
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  workds: [prichan]
+  year:
+  note: 7月12日はデコレーションケーキの日
+萌黄えも:
+  name_en:
+  name_ko:
+  date: 1900-09-09
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  workds: [prichan]
+  year:
+  note: 9月9日はポップコーンの日
+青葉りんか:
+  name_en:
+  name_ko:
+  date: 1900-01-25
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  workds: [prichan]
+  year:
+  note:
+赤城あんな:
+  name_en:
+  name_ko:
+  date: 1900-07-06
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  workds: [prichan]
+  year:
+  note: 7月6日はピアノの日
+緑川さら:
+  name_en:
+  name_ko:
+  date: 1900-
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  workds: [prichan]
+  year:
+  note:
+緑川さら:
+  name_en: MIDORIKAWA Sara
+  name_ko:
+  date: 1900-06-09
+  tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}']
+  workds: [prichan]
+  year:
+  note: 6月9日はロックの日
