@@ -50,35 +50,35 @@
 上葉みあ:
   name_en: AGEHA Mia
   name_ko: 아게하 미아/아미(쿠사카베 미아)
-  date: 
+  date: 1900-8-8
   tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}', '#{name}誕生祭', '#{name}誕生祭{year}']
   works: [DMF]
   year: 
-  note: 
+  note: ゾロ目の日・しし座
 深山れいな:
   name_en: MIYAMA Reina
   name_ko: 미야마 레이나/레이나(쿠보 레이나)
-  date: 
+  date: 1900-10-30
   tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}', '#{name}誕生祭', '#{name}誕生祭{year}']
   works: [DMF]
   year: 
-  note: 
+  note: 初恋の日・さそり座
 志々美かりん:
   name_en: SHIJIMI Karin
   name_ko: 시지미 카린/카린(타카하시 카린)
-  date: 1900-12-25
+  date: 1900-5-10
   tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}', '#{name}誕生祭', '#{name}誕生祭{year}']
   works: [DMF]
   year: 
-  note: 
+  note: ファイトの日・おうし座
 大瑠璃あやみ:
   name_en: OORURI Ayami
   name_ko: 오오루리 아야미/에이미(세마노 아야미)
-  date: 
+  date: 1900-1-6
   tags: ['#{name}生誕祭', '#{name}生誕祭{year}', '#{name}聖誕祭', '#{name}聖誕祭{year}', '#{name}誕生祭', '#{name}誕生祭{year}']
   works: [DMF]
   year: 
-  note: 
+  note: 色の日・やぎ座
 ヘイン:
   name_en: Hye In
   name_ko: 혜인/해인 (유혜인)
