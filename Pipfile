@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+pyyaml = "*"
+gspread = "*"
+python-dateutil = "*"
+tweepy = {git = "https://github.com/tweepy/tweepy"}
+pymongo = "*"
+"oauth2client" = "*"
+
+[requires]
+python_version = "3.7"
