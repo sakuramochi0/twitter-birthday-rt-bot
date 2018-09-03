@@ -243,7 +243,7 @@ def check_replies():
     ts = convert_new_payload(ts)
     for t in reversed(ts):
         # 処理済みのリプライは無視する
-        if replies.find({'_id': t.id}).count():
+        if replies.count_documents({'_id': t.id}):
             continue
         # RT拒否のリプライ
         if re.search(r'(rt|リツイート)しないで', t.text.lower()):
@@ -311,7 +311,7 @@ def retweet(ids=None):
         ts = api.statuses_lookup(','.join(ids))
     for t in ts:
         # DBにあるものはスキップする
-        if tws.find({'_id': t.id, 'meta.retweeted': True}).count():
+        if tws.count_documents({'_id': t.id, 'meta.retweeted': True}):
             continue
         # 無視ユーザー/キーワードを除外する
         if is_not_ignore_user(t) and is_not_ignore_keyword(t):
